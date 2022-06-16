@@ -1,1 +1,20 @@
-# Aaron Miller
+<H1 align="center">Aaron Miller</H1>
+</body>
+</p>I am undergraduate student of Spanish and Linguistics at the University of Oregon. My interests include corpus linguistics and L2 acquisition/usage.</p>
+</p>I am attending NAACL 2022 as one of the co-authors of <i> A dependency treebank of spoken second language English</i> (Kyle et al., 2022). On July 15th, this paper will appear as a poster at BEA-2022: 17th Workshop on Innovative Use of NLP for Building Educational Applications.</p>
+
+Take a look at my [résumé](https://drive.google.com/file/d/1zl2LrIksArFfUSj-Kbmy0kJhU8EMsF4T/view?usp=sharing).
+<hr>
+<H3 align="center">Bibliography</H3>
+</body>
+</html>
+Kyle, K., Eguchi, M., Miller, A., & Sither,
+T. (2022). <i>A dependency treebank of
+spoken second language English. In
+Proceedings of the 2022 Conference of
+the North American Chapter of the
+Association for Computational
+Linguistics: Innovative Use of NLP for
+Building Educational Applications
+(accepted)</i>, Seattle, USA. Association
+for Computational Linguistics.
