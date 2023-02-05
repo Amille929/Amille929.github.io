@@ -7,7 +7,7 @@
 • <a href="https://github.com/Amille929/Amille929.github.io/files/10572139/A_Miller.resume.docx">Download Résumé</a>
 </p>
 
-## About me
+## About Me
 I am a recent Linguistics and Spanish graduate from the University of Oregon, where I became involved in linguistic annotation at the Learner Corpus Research and Applied Data Science Lab. I am a published coauthor and my work has contributed to linguistic corpora for AI/ML models.
 
-My academic interests include all things language, with an emphasis on include phonology, syntax, semantics, corpus linguistics, applied linguistics, and Spanish.
+My academic interests include phonology, syntax, semantics, corpus linguistics, applied linguistics, and Spanish.
