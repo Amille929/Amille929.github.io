@@ -4,8 +4,9 @@
 <a href="https://amille929.github.io/">About Me</a>
 • <a href="https://amille929.github.io/docs/conferences">Linguistics Conferences</a>
 • <a href="https://amille929.github.io/docs/contact">Contact Information</a>
-• <a href="https://github.com/Amille929/Amille929.github.io/files/10572139/A_Miller.resume.docx">Download Resume</a>
+• <a href="https://github.com/Amille929/Amille929.github.io/files/10832354/A_Miller.resume.docx">Download Resume</a>
 </p>
+[A_Miller resume.docx](https://github.com/Amille929/Amille929.github.io/files/10832354/A_Miller.resume.docx)
 
 ## About Me
 I am a recent Linguistics and Spanish graduate from the University of Oregon, where I became involved in linguistic annotation at the Learner Corpus Research and Applied Data Science (LCR-ADS) lab.
