@@ -2,9 +2,9 @@
 
 <p>
 <a href="https://amille929.github.io/">About Me</a>
-• <a href="https://amille929.github.io/docs/current_mischief">Current Mischief</a>
+• <a href="https://amille929.github.io/docs/conferences">Linguistics Conferences</a>
 • <a href="https://amille929.github.io/docs/contact">Contact Information</a>
-• <a href="https://github.com/Amille929/Amille929.github.io/files/10572139/A_Miller.resume.docx">Download Résumé</a>
+• <a href="https://github.com/Amille929/Amille929.github.io/files/10572139/A_Miller.resume.docx">Download Resume</a>
 </p>
 
 ## Contact Information
