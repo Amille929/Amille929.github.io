@@ -10,7 +10,7 @@
 ## About Me
 I am a recent Linguistics and Spanish graduate from the University of Oregon, where I became involved in linguistic annotation at the Learner Corpus Research and Applied Data Science (LCR-ADS) lab.
 
-Now that I have graduated, I plan to continue working with language. I hope to start a career in natural language processing or speech therapy. Other possibilities include graduate school and teaching English abroad. 
+Now that I have graduated, I plan to continue working with language. I hope to start a career in natural language processing. Other possibilities include graduate school and teaching English abroad. 
 
 I am searching for work. Although I am currently employed part-time at the LCR-ADS lab, I work few hours and the projects I am involved with are coming to an end. I also believe it is important to leave opportunities at the lab open for current University of Oregon students.
 
