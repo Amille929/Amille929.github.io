@@ -8,7 +8,7 @@
 </p>
 
 ## About Me
-I am a recent Linguistics and Spanish graduate from the University of Oregon, where I became involved in linguistic annotation at the [Learner Corpus Research and Applied Data Science (LCR-ADS) lab](https://lcr-ads-lab.github.io/LCR-ADS-Home/).
+I am a recent Linguistics and Spanish graduate from the University of Oregon, where I became involved in linguistic annotation at the Learner Corpus Research and Applied Data Science (LCR-ADS) lab ([link](https://lcr-ads-lab.github.io/LCR-ADS-Home/)).
 
 I am moving to Reno, Nevada to begin work as a data annotation specialist for Microsoft starting May 8th. This is a huge development in my life and I am extremely grateful for this opportunity.
 
