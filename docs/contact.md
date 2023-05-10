@@ -8,6 +8,6 @@
 </p>
 
 ## Contact Information
-Eugene, Oregon • 541-735-4123 • [aaronmilleracademic@gmail.com](mailto:aaronmilleracademic@gmail.com) • [linkedin.com/in/amille](https://www.linkedin.com/in/amille/)
+Reno, Nevada • [aaronmilleracademic@gmail.com](mailto:aaronmilleracademic@gmail.com) • [linkedin.com/in/amille](https://www.linkedin.com/in/amille/)
 
 The best way to reach me is by email. Thank you for your interest!
